@@ -1,0 +1,27 @@
+Phase,Pressure (kPa),Force (N)
+Extension,100.0,0.2368
+Extension,110.0,0.622
+Extension,120.0,1.3186
+Extension,130.0,1.749
+Extension,140.0,2.8219
+Extension,150.0,3.8342
+Extension,160.0,4.8804
+Extension,170.0,6.0204
+Extension,180.0,6.0518
+Extension,190.0,7.7538
+Extension,200.0,8.8043
+Extension,210.0,9.7488
+Extension,220.0,10.7397
+Retraction,220.0,10.5604
+Retraction,210.0,9.4701
+Retraction,200.0,8.3999
+Retraction,190.0,7.1996
+Retraction,180.0,6.5539
+Retraction,170.0,5.3797
+Retraction,160.0,4.1915
+Retraction,150.0,3.1139
+Retraction,140.0,2.2566
+Retraction,130.0,0.9691
+Retraction,120.0,0.663
+Retraction,110.0,0.044
+Retraction,100.0,-0.2159
